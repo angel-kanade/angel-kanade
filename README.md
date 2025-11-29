@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=835&lines=print(Hi%2C+I'm+kanade!);Welcome+to+my+github!&center=true&size=25" />
   </a>
 </div>
+</div>
 
 - 📫 How to reach me **iskrebs@outlook.com**
 
@@ -15,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/angel-kanade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="angel-kanade" height="30" width="40" /></a>
-<a href="https://leetcode.com/angel-kanade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="angel-kanade" height="30" width="40" /></a>
+<a href="https://leetcode.cn/angel-kanade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="angel-kanade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
