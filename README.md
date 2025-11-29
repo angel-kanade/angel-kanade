@@ -10,7 +10,7 @@
 </div>
 <div>&nbsp;</div>
  
-<img align="center" height="140px" style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=aceld&layout=compact&theme=algolia" />
+<img align="center"  style="float: left" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=angel-kanade&layout=compact&theme=algolia" />
 <div style="clear: both"></div>
 
 
