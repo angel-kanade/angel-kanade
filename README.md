@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **iskrebs@outlook.com**
 
-- 📝 I regularly write articles on **[https://www.angel-kanade.cn/](https://www.angel-kanade.com/)**
+- 📝 I regularly write articles on **[https://www.angel-kanade.com/](https://www.angel-kanade.com/)**
   
 - 🐧 Currently interning at Tencent | Backend & AI Agent Development
 
